@@ -8,6 +8,8 @@ Media
 -----
 
  - :ref:`pkg.Jpeg` -  library for JPEG image compression.
+ - :ref:`pkg.Ogg` - library for the Ogg multimedia container format.
+ - :ref:`pkg.libogg` - old library for the Ogg multimedia container format.
  - :ref:`pkg.OpenAL` - software implementation of the OpenAL 3D audio API.
  - :ref:`pkg.PNG` - library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files.
  - :ref:`pkg.SDL_mixer` - A sample multi-channel audio mixer library for SDL.
